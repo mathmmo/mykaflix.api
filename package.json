@@ -1,0 +1,23 @@
+{
+  "name": "mykaflix.api",
+  "version": "1.0.0",
+  "description": "Projeto de teste",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathmmo/mykaflix.api.git"
+  },
+  "author": "@mathmmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathmmo/mykaflix.api/issues"
+  },
+  "homepage": "https://github.com/mathmmo/mykaflix.api#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
