@@ -11,6 +11,12 @@
             "name": "Ação",
             "description": "Uma categoria",
             "cor": "#CBD1FF"
+        },
+        {
+            "id": "3",
+            "name": "TESTE",
+            "description": "Outra categoria",
+            "cor": "#CBD1FF"
         }
     ]
 }
